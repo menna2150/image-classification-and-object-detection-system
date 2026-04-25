@@ -1,4 +1,5 @@
 # Image Classification and Object Detection System
+![image alt](https://github.com/menna2150/image-classification-and-object-detection-system/blob/d190b982db245de3048921fb4b6e24520c26469e/Screenshot%202026-04-24%20223204.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
